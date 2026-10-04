@@ -2,7 +2,9 @@
 
 A responsive bento-grid landing page for a social media management service. The layout is based on the supplied desktop and mobile design references and uses the project's included illustrations and DM Sans font files.
 
-![Preview of the Bento Grid project](./preview.jpg)
+[View the live project](https://navdeepsingh7401.github.io/bento-grid/)
+
+![Screenshot of the completed Bento Grid project](./design/result.png)
 
 ## Features
 
